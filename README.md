@@ -1,8 +1,13 @@
 # wp-scraper
 
 Extract the plugin to wp-contents/plugins dir.
+
+
 Activate it.
+
+
 Add shortcode as explained below.
+
 
 Usage example:
 
